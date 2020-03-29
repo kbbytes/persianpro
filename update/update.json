@@ -1,0 +1,49 @@
+[
+  { "version": "2.1.8"
+  , "client": true
+  , "server": false
+  , "remove": ["data/gameskins/gameskins[017].png", "data/gameskins/gameskins[022].png", "data/gameskins/gameskins[043].png", "data/gameskins/gameskins[014].png", "data/gameskins/gameskins[044].png", "data/gameskins/gameskins[D].png"]
+  , "download": [ "data/shop/clanroom.png", "data/shop/moder.png", "data/shop/vip.png", "data/shop/vip+.png", "data/shop/vip++.png", "data/shop/clantoken.png", "data/shop/premium.png", "data/skins/!00inferno.jpg", "data/gameskins/gameskins[D].png"]
+  },
+ 
+ { "version": "2.1.7"
+  , "client": true
+  , "server": false
+  , "remove": 
+	[
+		"gameskins/gameskins[A].png", "gameskins/gameskins[B].png", "gameskins/gameskins[C].png", "gameskins/gameskins[D].png", "gameskins/gameskins[E].png", "gameskins/gameskins[F].png", "gameskins/gameskins[G].png"
+		, "gameskins/gameskins[H].png", "gameskins/gameskins[I].png", "gameskins/gameskins[J].png", "gameskins/gameskins[K].png", "gameskins/gameskins[L].png", "gameskins/gameskins[M].png", "gameskins/gameskins[N].png"
+		, "gameskins/gameskins[O].png", "gameskins/gameskins[P].png", "gameskins/gameskins[Q].png", "gameskins/gameskins[R].png", "gameskins/gameskins[S].png", "gameskins/gameskins[T].png", "gameskins/gameskins[U].png"
+		, "gameskins/gameskins[V].png", "gameskins/gameskins[W].png", "gameskins/gameskins[X].png", "gameskins/gameskins[Y].png", "gameskins/gameskins[Z].png", "gameskins", "gameskins/", "gameskins/*"
+	]
+  , "download": 
+	[
+		"data/shop/clanroom.png", "data/shop/moder.png", "data/shop/vip.png", "data/shop/vip+.png", "data/shop/vip++.png", "data/shop/clantoken.png", "data/shop/premium.png"
+	]
+  },
+  { "version": "2.1.6"
+  , "client": true
+  , "server": false
+  , "remove": ["gameskins"]
+  },
+  { "version": "2.1.5"
+  , "client": true
+  , "server": false
+  , "download": 
+	[
+		"libbcrypt.dll", "libcrypto-1_1.dll", "libssl-1_1.dll", "libeay32.dll", "libssl32.dll", "mysqlcppconn-7-vs14.dll", "ssleay32.dll"
+		, "data/gameskins/gameskins[A].png", "data/gameskins/gameskins[B].png", "data/gameskins/gameskins[C].png", "data/gameskins/gameskins[D].png", "data/gameskins/gameskins[E].png", "data/gameskins/gameskins[F].png", "data/gameskins/gameskins[G].png"
+		, "data/gameskins/gameskins[H].png", "data/gameskins/gameskins[I].png", "data/gameskins/gameskins[J].png", "data/gameskins/gameskins[K].png", "data/gameskins/gameskins[L].png", "data/gameskins/gameskins[M].png", "data/gameskins/gameskins[N].png"
+		, "data/gameskins/gameskins[O].png", "data/gameskins/gameskins[P].png", "data/gameskins/gameskins[Q].png", "data/gameskins/gameskins[R].png", "data/gameskins/gameskins[S].png", "data/gameskins/gameskins[T].png", "data/gameskins/gameskins[U].png"
+		, "data/gameskins/gameskins[V].png", "data/gameskins/gameskins[W].png", "data/gameskins/gameskins[X].png", "data/gameskins/gameskins[Y].png", "data/gameskins/gameskins[Z].png"
+	]
+  },
+  { "version": "2.1.3"
+  , "client": true
+  , "server": false
+  },
+  { "version": "2.1.2"
+  , "client": true
+  , "server": false
+  }
+]
