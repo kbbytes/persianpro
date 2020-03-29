@@ -1,12 +1,15 @@
 [
+  { "version": "2.1.9"
+  , "client": true
+  , "server": false
+  },
   { "version": "2.1.8"
   , "client": true
   , "server": false
   , "remove": ["data/gameskins/gameskins[017].png", "data/gameskins/gameskins[022].png", "data/gameskins/gameskins[043].png", "data/gameskins/gameskins[014].png", "data/gameskins/gameskins[044].png", "data/gameskins/gameskins[D].png"]
   , "download": [ "data/shop/clanroom.png", "data/shop/moder.png", "data/shop/vip.png", "data/shop/vip+.png", "data/shop/vip++.png", "data/shop/clantoken.png", "data/shop/premium.png", "data/skins/!00inferno.jpg", "data/gameskins/gameskins[D].png"]
   },
- 
- { "version": "2.1.7"
+  { "version": "2.1.7"
   , "client": true
   , "server": false
   , "remove": 
