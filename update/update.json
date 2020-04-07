@@ -2,7 +2,8 @@
   { "version": "2.1.9"
   , "client": true
   , "server": false
-  , "download": [ "data/social/Discord.png", "data/shop/Instagram.png", "data/shop/Telegram.png"]
+  , "download": [ "data/social/Discord.png", "data/shop/Instagram.png", "data/shop/Telegram.png", "data/emote+/fx_list.png"
+					, "data/emote+/playerspawn.png", "data/emote+/scythe.png", "data/emote+/shield.png", "data/emote+/sparks.png"]
   },
   { "version": "2.1.8"
   , "client": true
