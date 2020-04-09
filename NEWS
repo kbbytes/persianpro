@@ -3,6 +3,7 @@
 	"version": "2.1.9",
 	"name": "Sv3N",
 	"login": 0,
+	"emote_plus": 0,
 	"servers-ppro": 
 	[
 		{
