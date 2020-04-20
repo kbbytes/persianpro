@@ -1,4 +1,8 @@
 [
+  { "version": "2.2.3"
+  , "client": true
+  , "server": false
+  },
   { "version": "2.2.2"
   , "client": true
   , "server": false
